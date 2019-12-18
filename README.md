@@ -5,6 +5,10 @@ Program Studi Teknik Komputer
 
 Kelompok 2 Angkatan 2018
 
+Nama : Yusuf Abraham Bismo Kristanto & Vincentius Indra Lithgow
+
+NPM : 1806200274 & 1806200362
+
 ## Deskripsi Program
 Di dalam program ini dapat dilakukan penyimpanan dari sejumlah data yang di store di dalam sebuah akun. Akun yang sudah dibuat akan tetap tersimpan saat program ditutup, sehingga untuk pemakaian program bisa untuk jangka panjang. 
 
