@@ -14,6 +14,7 @@ Di dalam program ini dapat dilakukan penyimpanan dari sejumlah data yang di stor
 
 Saat sudah login ke dalam akun akan terdapat tampilan menu yang menawarkan berbagai pilihan untuk :
 
+![Main Menu Interface](
 ### 1. Create a New Account
 Saat anda sudah log-in ke dalam account yang telah anda buat, anda bisa membuat akun rekening bank baru dengan menekan tombol 1. Ini akan men-redirect anda ke halaman pembuatan akun.
   
